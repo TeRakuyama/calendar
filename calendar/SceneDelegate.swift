@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  calendar
 //
-//  Created by 樂山哲也 on 2020/02/16.
+//  Created by rakuyama on 2020/02/16.
 //  Copyright © 2020 rakuyama. All rights reserved.
 //
 
